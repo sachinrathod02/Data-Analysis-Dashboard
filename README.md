@@ -17,3 +17,5 @@ The objective of this project is to develop an interactive Power BI dashboard fo
 - Which cities contribute the most to total sales?
 - How do sales quantities vary month by month?
 - On which days do sales peak or decline?
+
+  - dashboard interactive <a href="https://github.com/sachinrathod02/Data-Analysis-Dashboard/blob/main/Mobile_sales-Dashboard.png">view dashboard</a>
